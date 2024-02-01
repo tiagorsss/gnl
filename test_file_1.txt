@@ -1,0 +1,4 @@
+This is a test file.
+It contains multiple lines.
+Each line is separated by a newline character.
+This file can be used for testing file reading functions.
